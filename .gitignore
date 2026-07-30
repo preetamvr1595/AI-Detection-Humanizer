@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+*.db
+backend/uploads/
+backend/reports/
+backend/scholarshield.db
+rebuild_and_push.py
+fast_commit_push.py
+create_commits_and_push.py
+
+# Node / React
+node_modules/
+frontend/node_modules/
+frontend/.npm-cache/
+.npm
+build/
+dist/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
