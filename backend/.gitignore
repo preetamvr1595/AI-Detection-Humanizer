@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+scholarshield.db
+uploads/*
+!uploads/.gitkeep
+reports/*
+!reports/.gitkeep
+.keys/
+.certs/
+server.log
+*.egg-info/
