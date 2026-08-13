@@ -1,8 +1,11 @@
 # ScholarShield — AI-Powered Document Intelligence & Cybersecurity Platform
 
+
 Full-stack implementation covering the GM University MCA Phase 1 SRS, the
 Phase 2 Software Design document, and the **ScholarShield Master PRD**
 (module requirements matrix + cybersecurity architecture, Sections 3–6).
+
+
 
 This is a real, runnable system — not a mockup. Every security control in
 PRD Section 6 (ClamAV, YARA, AES-256-GCM, RSA-signed reports, TOTP MFA,
