@@ -7,15 +7,6 @@ Phase 2 Software Design document, and the **ScholarShield Master PRD**
 
 
 
-This is a real, runnable system — not a mockup. Every security control in
-PRD Section 6 (ClamAV, YARA, AES-256-GCM, RSA-signed reports, TOTP MFA,
-hash-chained audit logs, TLS 1.3) is a genuine working implementation,
-tested end-to-end. Where the PRD calls for infrastructure this environment
-cannot reach (a live Keycloak realm, GPU-trained transformer classifiers,
-a hosted vector DB, live CrossRef lookups), that's stated plainly in the
-relevant module's docstring, along with the exact swap-in path to the real
-thing. **No accuracy percentage is claimed anywhere in this codebase** —
-see "On accuracy claims" below.
 
 ## Quick start
 
