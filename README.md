@@ -227,3 +227,5 @@ frontend/
 6. **Live CrossRef/DOI verification**: implement `verify_doi_live()` in
    `fact_citation.py` with a real HTTP call once deployed somewhere that
    can reach `api.crossref.org`.
+   ### Development Update
+GitHub workflow and project documentation update.
