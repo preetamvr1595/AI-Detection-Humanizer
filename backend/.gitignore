@@ -9,3 +9,4 @@ reports/*
 .certs/
 server.log
 *.egg-info/
+pandas
